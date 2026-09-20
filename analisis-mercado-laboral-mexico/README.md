@@ -1,3 +1,55 @@
+# Labor Market Analysis in Mexico 2020-2024
+
+## Description
+Exploratory analysis of the Mexican labor market using official INEGI 
+(ENOE) data. Studies the evolution of unemployment, labor informality 
+and economic participation across the 32 states between 2020 and 2024.
+
+## Objective
+Identify patterns and regional inequalities in the Mexican labor market 
+to support decision-making in public policy and business strategy.
+
+## Data Source
+INEGI - National Survey of Occupation and Employment (ENOE)
+https://www.inegi.org.mx/programas/enoe/15ymas/
+
+## Tools
+- Python 3.13
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- VS Code
+
+## Files
+- `analisis_mercado_laboral.ipynb` — Notebook with complete analysis
+- `enoe_desempleo_mexico_2020_2024.csv` — Wide dataset (32 x 24)
+- `enoe_desempleo_largo_2020_2024.csv` — Long dataset (640 records)
+
+## Analysis Steps
+1. Data loading and initial exploration
+2. Quality check: no missing values or duplicates found
+3. National unemployment trend 2020-2024
+4. Top 10 states with highest average unemployment
+5. Labor informality by region
+6. Heatmap by state and year
+7. Relationship between informality and unemployment by state
+8. Conclusions and recommendations
+
+## Key Findings
+- COVID-19 caused a unemployment peak of 4.9% in 2020-Q2
+- Mexico City (4.42%) and Tabasco (4.18%) lead average unemployment
+- The South-Southeast region has 24 percentage points more informality than the North
+- By 2024 all states recovered to pre-pandemic levels
+
+## Conclusions
+Southern states like Oaxaca and Guerrero show low unemployment but 
+very high informality, indicating precarious work conditions without 
+access to social security. Formalization policies should be focused 
+on the South-Southeast region.
+
+---
+
 # Análisis del Mercado Laboral en México 2020-2024
 
 ## Descripción
