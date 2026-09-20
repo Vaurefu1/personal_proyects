@@ -1,3 +1,28 @@
+# Projects Portfolio - Luis Fernando Rubio Avalos
+
+Data Analyst with TripleTen certification and Industrial Engineering 
+background. This repository contains data analysis projects using 
+Python, SQL and Tableau.
+
+## Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Labor Market Analysis in Mexico 2020-2024](./analisis-mercado-laboral-mexico) | Exploratory analysis of unemployment and labor informality by state using INEGI data | Python, Pandas, Matplotlib, Seaborn |
+
+## Technical Skills
+- Python (Pandas, Matplotlib, Seaborn, Scipy)
+- SQL (PostgreSQL)
+- Tableau
+- Excel
+- GitHub
+
+## Contact
+- GitHub: [Vaurefu1](https://github.com/Vaurefu1)
+- Email: luisfera_03@hotmail.com
+
+---
+
 # personal_proyects
 This repository is a practice exercise with data that "could" be real, but is for practice purposes only.
 
