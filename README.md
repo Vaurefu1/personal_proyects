@@ -1,3 +1,6 @@
+**Note:** The projects in this repository are for practice and learning purposes. Some use real, verifiable data; others use fictional or simulated data, created only to demonstrate analysis techniques.
+
+
 # Projects Portfolio - Luis Fernando Rubio Avalos
 
 Data Analyst with TripleTen certification and Industrial Engineering 
