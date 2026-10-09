@@ -24,10 +24,9 @@ Python, SQL and Tableau.
 - GitHub: [Vaurefu1](https://github.com/Vaurefu1)
 - Email: luisfera_03@hotmail.com
 
----
 
-# personal_proyects
-This repository is a practice exercise with data that "could" be real, but is for practice purposes only.
+
+---
 
 
 
