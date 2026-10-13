@@ -1,0 +1,19 @@
+anio,inflacion_anual,presidente,partido,sexenio,meta_banxico,contexto,sobre_meta,diferencia_meta
+2007,3.76,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Normal,1,0.76
+2008,6.53,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Crisis financiera global,1,3.53
+2009,3.57,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Post-crisis,1,0.57
+2010,4.4,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Recuperacion,1,1.4
+2011,3.82,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Normal,1,0.82
+2012,3.57,Felipe Calderon,PAN,Calderon 2006-2012,3.0,Normal,1,0.57
+2013,3.97,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Normal,1,0.97
+2014,4.08,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Normal,1,1.08
+2015,2.13,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Baja inflacion historica,0,-0.87
+2016,3.36,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Normal,1,0.36
+2017,6.77,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Sismo CDMX y presiones cambiarias,1,3.77
+2018,4.83,Enrique Pena Nieto,PRI,Pena Nieto 2012-2018,3.0,Normal,1,1.83
+2019,2.83,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,Normal,0,-0.17
+2020,3.15,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,COVID-19,1,0.15
+2021,7.36,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,Recuperacion post-COVID,1,4.36
+2022,7.82,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,Guerra Ucrania y presiones globales,1,4.82
+2023,4.66,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,Desaceleracion,1,1.66
+2024,4.21,Andres Manuel Lopez Obrador,Morena,AMLO 2018-2024,3.0,Transicion de gobierno,1,1.21
