@@ -12,10 +12,11 @@ Python, SQL and Tableau.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Labor Market Analysis in Mexico 2020-2024](./analisis-mercado-laboral-mexico) | Exploratory analysis of unemployment and labor informality by state using INEGI data | Python, Pandas, Matplotlib, Seaborn |
+| [Inflation Analysis in Mexico by Presidential Term 2007-2024](./analisis-inflacion-mexico) | Analysis of annual inflation across three presidential administrations using real INEGI/Banxico data and SQLite | Python, Pandas, SQLite, Matplotlib, Seaborn, SciPy |
 
 ## Technical Skills
 - Python (Pandas, Matplotlib, Seaborn, Scipy)
-- SQL (PostgreSQL)
+- SQL (PostgreSQL, SQLite)
 - Tableau
 - Excel
 - GitHub
@@ -41,10 +42,11 @@ análisis de datos usando Python, SQL y Tableau.
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
 | [Análisis del Mercado Laboral en México 2020-2024](./analisis-mercado-laboral-mexico) | Análisis exploratorio del desempleo e informalidad laboral por estado usando datos del INEGI | Python, Pandas, Matplotlib, Seaborn |
+| [Análisis de Inflación en México por Sexenio 2007-2024](./analisis-inflacion-mexico) | Análisis de la inflación anual en tres sexenios presidenciales usando datos reales del INEGI/Banxico y SQLite | Python, Pandas, SQLite, Matplotlib, Seaborn, SciPy |
 
 ## Habilidades técnicas
 - Python (Pandas, Matplotlib, Seaborn, Scipy)
-- SQL (PostgreSQL)
+- SQL (PostgreSQL, SQLite)
 - Tableau
 - Excel
 - GitHub
