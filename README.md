@@ -44,6 +44,7 @@ análisis de datos usando Python, SQL y Tableau.
 |----------|-------------|--------------|
 | [Análisis del Mercado Laboral en México 2020-2024](./analisis-mercado-laboral-mexico) | Análisis exploratorio del desempleo e informalidad laboral por estado usando datos del INEGI | Python, Pandas, Matplotlib, Seaborn |
 | [Análisis de Inflación en México por Sexenio 2007-2024](./analisis-inflacion-mexico) | Análisis de la inflación anual en tres sexenios presidenciales usando datos reales del INEGI/Banxico y SQLite | Python, Pandas, SQLite, Matplotlib, Seaborn, SciPy |
+| [Análisis de Ventas Retail 2023](./analisis-ventas-retail) | Análisis exploratorio de 58k transacciones: estacionalidad, top productos, mercados internacionales y segmentación RFM de clientes | Python, Pandas, Matplotlib, NumPy |
 
 ## Habilidades técnicas
 - Python (Pandas, Matplotlib, Seaborn, Scipy)
