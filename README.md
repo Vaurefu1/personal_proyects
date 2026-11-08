@@ -12,7 +12,7 @@ Python, SQL and Tableau.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Labor Market Analysis in Mexico 2020-2024](./analisis-mercado-laboral-mexico) | Exploratory analysis of unemployment and labor informality by state using INEGI data | Python, Pandas, Matplotlib, Seaborn |
-| [Inflation Analysis in Mexico by Presidential Term 2007-2024](./analisis-inflacion-mexico) | Analysis of annual inflation across three presidential administrations using real INEGI/Banxico data and SQLite | Python, Pandas, SQLite, Matplotlib, Seaborn, SciPy | Retail Sales Analysis 2023 | Exploratory analysis of 58k transactions including seasonality, top products, international markets and RFM customer segmentation | Python, Pandas, Matplotlib, NumPy |
+| [Inflation Analysis in Mexico by Presidential Term 2007-2024](./analisis-inflacion-mexico) | Analysis of annual inflation across three presidential administrations using real INEGI/Banxico data and SQLite | Python, Pandas, SQLite, Matplotlib, Seaborn, SciPy |
 
 ## Technical Skills
 - Python (Pandas, Matplotlib, Seaborn, Scipy)
